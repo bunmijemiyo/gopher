@@ -16,8 +16,37 @@ This is a simple public API for HNG Internship.
 }
 ```
 
-# How to Run Locally
+## How to Run Locally
 
 1. Clone the repository:
+
+```sh
    git clone https://github.com/yourusername/your-repo.git
    cd your-repo
+```
+
+2. Install dependencies:
+
+```sh
+   npm install
+```
+
+3. Run the API:
+
+```sh
+   node index.js
+```
+
+4. Open in browser or use Postman:
+
+```sh
+   http://localhost:3000/
+```
+
+## Deployment
+
+### Deployed on Render/Vercel/Railway at:
+
+```sh
+  <your-deployment-url>
+```
