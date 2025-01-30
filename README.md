@@ -21,7 +21,7 @@ This is a simple public API for HNG Internship.
 1. Clone the repository:
 
 ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/bunmijemiyo/gopher.git
    cd your-repo
 ```
 
