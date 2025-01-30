@@ -15,3 +15,9 @@ This is a simple public API for HNG Internship.
   "github_url": "https://github.com/yourusername/your-repo"
 }
 ```
+
+# How to Run Locally
+
+1. Clone the repository:
+   git clone https://github.com/yourusername/your-repo.git
+   cd your-repo
